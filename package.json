@@ -1,6 +1,6 @@
 {
   "name": "chama-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SDK for ChamaVault & ChamaMiner on Celo",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
