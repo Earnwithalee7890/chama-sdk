@@ -1,0 +1,20 @@
+{
+  "name": "chama-sdk",
+  "version": "1.0.0",
+  "description": "SDK for ChamaVault & ChamaMiner on Celo",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["celo", "chama", "vault", "miner"],
+  "author": "Earnwithalee7890",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.12.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
