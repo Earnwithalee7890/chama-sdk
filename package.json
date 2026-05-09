@@ -8,7 +8,12 @@
     "build": "tsc",
     "prepublishOnly": "npm run build"
   },
-  "keywords": ["celo", "chama", "vault", "miner"],
+  "keywords": [
+    "celo",
+    "chama",
+    "vault",
+    "miner"
+  ],
   "author": "Earnwithalee7890",
   "license": "MIT",
   "dependencies": {
